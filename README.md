@@ -479,9 +479,9 @@ This project is licensed under the GPL v3 License — see the [LICENSE](LICENSE_
 
 ## 👨‍💻 Author
 
-**YOUR NAME / COMPANY**
-- Website: [your-website.com](https://your-website.com)
-- Email: contact@your-website.com
+**Micro-one**
+- Website: [micro-one.com](https://micro-one.com)
+- Email: contact@micro-one.com
 
 ---
 
@@ -506,4 +506,4 @@ If you find this script useful, please consider:
 
 **Last updated:** September 21, 2026  
 **Version:** 1.0 (SafeWeb), built by humans augmented by AI  
-**Tested on:** Windows Server 2019/2022, Windows 10/11
+**Tested on:** Windows 11

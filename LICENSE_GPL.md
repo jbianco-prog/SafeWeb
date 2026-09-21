@@ -3,7 +3,6 @@
 **Version 1, 21 September 2026**
 
 Copyright (C) 2014-2026 Micro-one (contact@micro-one.com)
-Portions derived from SafeNAS — Copyright (C) 2014-2025 Micro-one (<contact@micro-one.com>)
 
 This program is free software: you can redistribute it and/or modify it under the terms of the GNU General Public License as published by the Free Software Foundation, either version 3 of the License, or (at your option) any later version.
 
@@ -29,7 +28,7 @@ You are **allowed** to:
 
 If you distribute this software or modified versions, you **must**:
 - ⚠️ **Disclose source** - Provide the complete source code
-- ⚠️ **License and copyright notice** - Include the original license and copyright notices (including SafeNAS / Micro-one)
+- ⚠️ **License and copyright notice** - Include the original license and copyright
 - ⚠️ **State changes** - Document any modifications made
 - ⚠️ **Same license** - Distribute under GPL v3 (copyleft)
 

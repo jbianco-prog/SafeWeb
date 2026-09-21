@@ -1,8 +1,8 @@
 # GNU GENERAL PUBLIC LICENSE
 
-**Version 3, 29 June 2007**
+**Version 1, 21 September 2026**
 
-Copyright (C) 2026 YOUR NAME / COMPANY (<contact@your-website.com>)  
+Copyright (C) 2014-2026 Micro-one (contact@micro-one.com)
 Portions derived from SafeNAS — Copyright (C) 2014-2025 Micro-one (<contact@micro-one.com>)
 
 This program is free software: you can redistribute it and/or modify it under the terms of the GNU General Public License as published by the Free Software Foundation, either version 3 of the License, or (at your option) any later version.
@@ -72,8 +72,7 @@ If you modify this software and want to distribute your version, include the fol
 
 ```
 SafeWeb - Web Proxy Antivirus Filtering Test Script
-Copyright (C) 2026 YOUR NAME / COMPANY
-Portions derived from SafeNAS - Copyright (C) 2014-2025 Micro-one
+Copyright (C) 2014-2025 Micro-one
 Copyright (C) <YEAR> <YOUR NAME>
 
 This program is free software: you can redistribute it and/or modify
@@ -129,9 +128,9 @@ Contact the distributor and request the source code. Under GPL v3, they are lega
 
 For licensing questions or permissions beyond the GPL v3 scope:
 
-**YOUR NAME / COMPANY**  
-Email: <contact@your-website.com>  
-Website: <https://your-website.com>
+**Micro-one**  
+Email: contact@micro-one.com  
+Website: https://micro-one.com
 
 ---
 

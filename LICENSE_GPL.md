@@ -1,6 +1,6 @@
 # GNU GENERAL PUBLIC LICENSE
 
-**Version 1, 21 September 2026**
+**Version 3, 29 June 2007**
 
 Copyright (C) 2014-2026 Micro-one (contact@micro-one.com)
 

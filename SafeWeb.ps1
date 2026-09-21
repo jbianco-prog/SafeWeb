@@ -1,4 +1,22 @@
-
+## ------
+## -
+## - Operational Security
+## -
+## - SafeWeb - Test du filtrage antivirus / reputation du proxy web (v.1.0)
+## - Script de controle continu de la protection antivirale au niveau du proxy d'entreprise
+## - Creation date :: 20/09/2026
+## - Last update on :: 21/09/2026
+## -
+## - Principe : le script tente de telecharger, A TRAVERS LE PROXY, des fichiers de test
+## - EICAR (inoffensifs) et des pages de test de reputation. Si le contenu arrive intact,
+## - le proxy ne filtre pas -> ALERTE. S'il est bloque/neutralise -> protection OK.
+## -
+## - Le telechargement se fait EN MEMOIRE (jamais ecrit sur disque) afin que l'antivirus
+## - du poste ne fausse pas le resultat : seul le proxy est evalue.
+## -
+## - /!\ A executer uniquement avec l'accord de la Direction Sécurité
+## -
+## ------
 ##
 ## ============================================================================
 ## CONFIGURATION - Modifier ces variables pour adapter le script

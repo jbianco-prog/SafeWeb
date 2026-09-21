@@ -72,7 +72,6 @@ If you modify this software and want to distribute your version, include the fol
 ```
 SafeWeb - Web Proxy Antivirus Filtering Test Script
 Copyright (C) 2014-2025 Micro-one
-Copyright (C) <YEAR> <YOUR NAME>
 
 This program is free software: you can redistribute it and/or modify
 it under the terms of the GNU General Public License as published by

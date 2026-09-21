@@ -93,11 +93,12 @@ along with this program. If not, see <https://www.gnu.org/licenses/>.
 ## 💡 Why GPL v3?
 
 The GPL v3 license was chosen for this project to ensure that:
-1. **Continuity with SafeNAS** - SafeWeb reuses the architecture and code patterns of SafeNAS, itself licensed under GPL v3
-2. **Freedom is preserved** - Users can always access, modify, and share the code
-3. **Improvements benefit everyone** - All distributed modifications must be shared back to the community
-4. **No proprietary lock-in** - The software cannot be turned into closed-source
-5. **Transparent security** - Security testing tools should be auditable and trustworthy
+
+1. **Freedom is preserved** - Users can always access, modify, and share the code
+2. **Improvements benefit everyone** - All modifications must be shared back to the community
+3. **No proprietary lock-in** - The software cannot be turned into closed-source
+4. **Transparent security** - Security tools should be auditable and trustworthy
+5. **Community-driven development** - Encourages collaborative improvement
 
 ---
 

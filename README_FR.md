@@ -479,9 +479,9 @@ Ce projet est sous licence GPL v3 — voir le fichier [LICENSE](LICENSE_GPL.md) 
 
 ## 👨‍💻 Auteur
 
-**VOTRE NOM / SOCIÉTÉ**
-- Site web : [votre-site.com](https://votre-site.com)
-- Email : contact@votre-site.com
+**Micro-one**
+- Website: [micro-one.com](https://micro-one.com)
+- Email: contact@micro-one.com
 
 ---
 
@@ -506,4 +506,4 @@ Si vous trouvez ce script utile, pensez à :
 
 **Dernière mise à jour :** 21 septembre 2026  
 **Version :** 1.0 (SafeWeb), conçu par des humains augmentés par l'IA  
-**Testé sur :** Windows Server 2019/2022, Windows 10/11
+**Testé sur :** Windows 11
